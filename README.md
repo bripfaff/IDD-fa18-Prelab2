@@ -8,7 +8,7 @@
 4. [Timed Animal Feeder](https://github.com/bripfaff/IDD-fa18-Prelab2/blob/master/IMG_2783.JPG)
 5. [Varying Interval Training](https://github.com/bripfaff/IDD-fa18-Prelab2/blob/master/IMG_2784.JPG)
 6. [Video Game Limiter](https://github.com/bripfaff/IDD-fa18-Prelab2/blob/master/IMG_2785.JPG)
-7. [Shower Water Usage] (https://github.com/bripfaff/IDD-fa18-Prelab2/blob/master/IMG_2786.JPG)
+7. [Shower Water Usage](https://github.com/bripfaff/IDD-fa18-Prelab2/blob/master/IMG_2786.JPG)
 8. []
 9. [] 
 10. []
