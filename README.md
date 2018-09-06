@@ -2,7 +2,7 @@
 
 10 Ideas:
 
-1. [Pulsing Fan to save electricity]
+1. [Pulsing Fan to save electricity](https://github.com/bripfaff/IDD-fa18-Prelab2/blob/master/IMG_2780.JPG)
 2. []
 3. []
 4. []
